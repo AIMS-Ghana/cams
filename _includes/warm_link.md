@@ -1,0 +1,1 @@
+[{{ site.warmups[include.which].title }}]({% include url.lq %}{{ site.warmups[include.which].url }}){:.{{ site.warmups[include.which].instructor}} }
