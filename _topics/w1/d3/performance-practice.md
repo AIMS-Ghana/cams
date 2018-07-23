@@ -1,7 +1,7 @@
 ---
 title: "Performance: Practice"
 ---
-##Review
+## Review
 1. Big O analysis
 2. Motivating example: Search techniques
   - Linear Search O(1) to O(n)
@@ -11,7 +11,7 @@ title: "Performance: Practice"
   - Selection Sort O(n^2)
   - Insertion Sort O(n) to O(n^2)
 
-##New Topics:
+## New Topics:
 
 - Linear Algebra in Programming
 - Having C interact with Python
@@ -19,13 +19,13 @@ title: "Performance: Practice"
 
 
 
-##Techniques I
+## Techniques I
 
  - Theoretically identifying "hotspots"
  - Empirically Identifying "hotspots"
  - optimizing whole process v. Code "chunks"
 
-##Techniques II
+## Techniques II
 
  - estimation as optimization (what are your projects specific needs?)
  - probabilistic techniques (math examples, e.g. IsPrime())
@@ -34,12 +34,12 @@ title: "Performance: Practice"
  - Hardware dependent techniques, using all your resources.
  - Parallel v. Serial
 
-##Has optimization worked?
+## Has optimization worked?
 
  - Empirical testing
  - If probabalistic methods used, is program correct for large enough class of inputs?
 
-##Review Excercises
+## Review Excercises
  - Exchange and optimize
  - independent small research projects/ presentations on commonly used algorithms
 
